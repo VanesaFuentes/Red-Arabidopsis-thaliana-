@@ -1,4 +1,4 @@
 # Red-Arabidopsis-thaliana-
 https://genemania.org/search/arabidopsis-thaliana/COP1/HFR1/CIP1/
 se tomaron en cuenta tres tipos de genes de Arabidpsis thaliana : COP1, HFR1 y  CIP1
-Se lograron mostrar mas de 20 genes relacionados con la  estructura de  dichos genes
+Se lograron mostrar mas de 20 genes relacionados con la  estructura de  dichos genes como  PRE6, LAF1, CKB1, CKB2,  LD, entre otros
